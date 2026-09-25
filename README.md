@@ -8,7 +8,7 @@ Some variables might be in lithuanian.<br>
 <br>
 Some work with .csv and .txt integration with python:<br>
 [log.py](https://github.com/adome595/school-coding/blob/main/log.py)<br>
-[wordfrq.py](https://github.com/adome595/school-coding/blob/main/wordfreq.py)<br>
+[wordfreq.py](https://github.com/adome595/school-coding/blob/main/wordfreq.py)<br>
 
 Fun projects:<br>
 [calculator.py](https://github.com/adome595/school-coding/blob/main/calculator.py)
