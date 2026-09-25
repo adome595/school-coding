@@ -1,0 +1,1001 @@
+date,employee,category,merchant,amount,currency,status
+2024-01-01,Uma Adler,Meals,Skyline Air,240.00,EUR,approved
+2024-01-01,Nina Weber,Office Supplies,Cloud Stack Inc,42.00,USD,approved
+2024-01-02,Lena Bauer,Travel,Cloud Stack Inc,23.80,USD,approved
+2024-01-03,Rex Tanaka,Meals,City Taxi,78.90,USD,approved
+2024-01-03,Ravi Ortiz,Travel,City Taxi,23.80,EUR,rejected
+2024-01-04,Paul Reyes,Software,Cafe Verde,23.80,EUR,pending
+2024-01-05,Marco Lund,Meals,City Taxi,42.00,GBP,approved
+2024-01-06,Jude Khan,Software,Data Tools Ltd,23.80,USD,approved
+2024-01-06,Noah Stone,Office Supplies,Cafe Verde,42.00,USD,approved
+2024-01-07,Marco Iqbal,Phone & Internet,Metro Transit,8.50,USD,approved
+2024-01-08,Eve Fontes,Travel,City Taxi,8.50,GBP,approved
+2024-01-09,Ava Mori,Software,Cloud Stack Inc,23.80,USD,approved
+2024-01-09,Ravi Novak,Travel,Grand Hotel,78.90,USD,approved
+2024-01-10,Zoe Dubois,Meals,Data Tools Ltd,14.20,EUR,approved
+2024-01-11,Emil Iqbal,Travel,Lunch Box,8.50,EUR,approved
+2024-01-11,Dara Okafor,Meals,Data Tools Ltd,8.50,USD,approved
+2024-01-12,Yuki Lund,Meals,Grand Hotel,23.80,USD,approved
+2024-01-13,Mia Dubois,Meals,Cloud Stack Inc,42.00,USD,pending
+2024-01-14,Ravi Reyes,Travel,Cafe Verde,8.50,USD,approved
+2024-01-14,Kira Fontes,Meals,City Taxi,42.00,EUR,approved
+2024-01-15,Felix Cole,Software,Data Tools Ltd,240.00,USD,pending
+2024-01-16,Ava Okafor,Office Supplies,Lunch Box,42.00,GBP,approved
+2024-01-17,Sofia Park,Travel,LearnPro,14.20,GBP,approved
+2024-01-17,Mia Okafor,Client Entertainment,Paper & Co,42.00,USD,pending
+2024-01-18,Sofia Weber,Travel,City Taxi,129.00,USD,pending
+2024-01-19,Ava Lindt,Client Entertainment,LearnPro,42.00,GBP,approved
+2024-01-19,Omar Khan,Office Supplies,City Taxi,240.00,EUR,approved
+2024-01-20,Jude Moreau,Software,Lunch Box,8.50,USD,approved
+2024-01-21,Ruby Weber,Client Entertainment,Cafe Verde,8.50,GBP,approved
+2024-01-22,Leo Tanaka,Meals,LearnPro,78.90,USD,approved
+2024-01-22,Sofia Tanaka,Meals,Data Tools Ltd,23.80,USD,approved
+2024-01-23,Lena Vega,Training,Lunch Box,129.00,EUR,approved
+2024-01-24,Ines Vega,Travel,Rail Connect,240.00,USD,approved
+2024-01-25,Hugo Park,Office Supplies,Print Hub,23.80,EUR,approved
+2024-01-25,Rex Lund,Travel,LearnPro,42.00,EUR,pending
+2024-01-26,Nina Novak,Software,Metro Transit,78.90,EUR,pending
+2024-01-27,Ravi Fontes,Travel,Lunch Box,129.00,USD,rejected
+2024-01-28,Ines Moreau,Office Supplies,Grand Hotel,78.90,GBP,pending
+2024-01-28,Hugo Novak,Software,Skyline Air,14.20,USD,approved
+2024-01-29,Mia Vega,Training,Skyline Air,78.90,GBP,approved
+2024-01-30,Emil Reyes,Client Entertainment,Lunch Box,42.00,USD,approved
+2024-01-30,Dara Park,Travel,Rail Connect,129.00,EUR,approved
+2024-01-31,Felix Lindt,Client Entertainment,Grand Hotel,14.20,USD,pending
+2024-02-01,Marco Mori,Meals,Lunch Box,42.00,USD,approved
+2024-02-02,Hugo Klein,Travel,Rail Connect,14.20,USD,pending
+2024-02-02,Noah Dubois,Meals,Grand Hotel,8.50,USD,approved
+2024-02-03,Yuki Reyes,Travel,LearnPro,23.80,USD,approved
+2024-02-04,Sofia Marsh,Meals,Lunch Box,14.20,GBP,approved
+2024-02-05,Ravi Klein,Software,Lunch Box,14.20,USD,pending
+2024-02-05,Paul Tanaka,Travel,Print Hub,8.50,EUR,approved
+2024-02-06,Kai Ortiz,Travel,Skyline Air,23.80,USD,approved
+2024-02-07,Eve Khan,Client Entertainment,City Taxi,8.50,EUR,approved
+2024-02-07,Noah Bauer,Meals,Paper & Co,14.20,USD,pending
+2024-02-08,Eve Costa,Software,Rail Connect,14.20,USD,approved
+2024-02-09,Ines Fontes,Client Entertainment,Cloud Stack Inc,890.00,EUR,approved
+2024-02-10,Ian Silva,Travel,Cafe Verde,42.00,USD,approved
+2024-02-10,Mia Tanaka,Software,LearnPro,42.00,EUR,approved
+2024-02-11,Lena Ortiz,Client Entertainment,Cloud Stack Inc,14.20,USD,approved
+2024-02-12,Ravi Weber,Software,Cloud Stack Inc,42.00,USD,pending
+2024-02-13,Mia Park,Travel,Rail Connect,240.00,USD,approved
+2024-02-13,Tess Fontes,Office Supplies,Cloud Stack Inc,42.00,USD,approved
+2024-02-14,Ruby Park,Meals,Print Hub,129.00,EUR,approved
+2024-02-15,Liam Iqbal,Software,City Taxi,129.00,USD,approved
+2024-02-15,Uma Nair,Meals,Rail Connect,415.00,EUR,approved
+2024-02-16,Emil Lund,Software,Skyline Air,42.00,USD,rejected
+2024-02-17,Omar Khan,Meals,Lunch Box,78.90,USD,pending
+2024-02-18,Paul Stone,Office Supplies,Grand Hotel,8.50,EUR,approved
+2024-02-18,Ava Bauer,Training,Data Tools Ltd,23.80,EUR,approved
+2024-02-19,Omar Novak,Software,Cafe Verde,129.00,USD,approved
+2024-02-20,Ava Mori,Software,Grand Hotel,78.90,USD,approved
+2024-02-21,Kai Adler,Travel,Cloud Stack Inc,14.20,GBP,approved
+2024-02-21,Ruby Okafor,Travel,Cloud Stack Inc,8.50,EUR,approved
+2024-02-22,Felix Sato,Travel,Lunch Box,23.80,USD,rejected
+2024-02-23,Yuki Fontes,Office Supplies,Data Tools Ltd,14.20,USD,approved
+2024-02-24,Noah Lindt,Travel,Skyline Air,8.50,EUR,approved
+2024-02-24,Sam Khan,Meals,Paper & Co,14.20,EUR,approved
+2024-02-25,Sofia Adler,Travel,Paper & Co,42.00,USD,pending
+2024-02-26,Tess Riley,Training,LearnPro,8.50,USD,approved
+2024-02-26,Dara Voss,Office Supplies,City Taxi,14.20,USD,approved
+2024-02-27,Mia Park,Meals,Cloud Stack Inc,14.20,USD,approved
+2024-02-28,Rex Klein,Travel,City Taxi,78.90,USD,approved
+2024-02-29,Yuki Nair,Meals,City Taxi,890.00,USD,approved
+2024-02-29,Jude Vega,Client Entertainment,Rail Connect,42.00,EUR,rejected
+2024-03-01,Dara Riley,Software,Cloud Stack Inc,14.20,USD,approved
+2024-03-02,Zoe Berg,Phone & Internet,Skyline Air,78.90,USD,approved
+2024-03-03,Ines Lund,Meals,City Taxi,8.50,USD,pending
+2024-03-03,Tess Tanaka,Phone & Internet,Metro Transit,240.00,USD,pending
+2024-03-04,Leo Moreau,Meals,Metro Transit,129.00,USD,approved
+2024-03-05,Emil Novak,Training,Skyline Air,14.20,GBP,approved
+2024-03-05,Liam Klein,Software,Print Hub,129.00,EUR,rejected
+2024-03-06,Noah Khan,Client Entertainment,Print Hub,14.20,USD,approved
+2024-03-07,Jude Adler,Software,City Taxi,14.20,USD,approved
+2024-03-08,Nina Reyes,Meals,Skyline Air,8.50,USD,approved
+2024-03-08,Zoe Novak,Travel,Cafe Verde,78.90,USD,approved
+2024-03-09,Ravi Novak,Office Supplies,Lunch Box,129.00,USD,approved
+2024-03-10,Marco Silva,Meals,Skyline Air,8.50,EUR,approved
+2024-03-11,Dara Reyes,Phone & Internet,Cloud Stack Inc,78.90,GBP,approved
+2024-03-11,Uma Marsh,Meals,LearnPro,8.50,GBP,approved
+2024-03-12,Marco Haas,Client Entertainment,Rail Connect,14.20,USD,approved
+2024-03-13,Eve Khan,Client Entertainment,Metro Transit,890.00,USD,approved
+2024-03-14,Uma Berg,Meals,Cloud Stack Inc,890.00,USD,approved
+2024-03-14,Mia Moreau,Travel,Cafe Verde,42.00,USD,approved
+2024-03-15,Yuki Costa,Travel,Cafe Verde,23.80,EUR,approved
+2024-03-16,Kai Stone,Travel,Cloud Stack Inc,14.20,USD,approved
+2024-03-16,Marco Khan,Office Supplies,Paper & Co,14.20,USD,pending
+2024-03-17,Lena Ortiz,Travel,Print Hub,129.00,USD,approved
+2024-03-18,Sofia Cole,Travel,Lunch Box,78.90,USD,approved
+2024-03-19,Uma Mori,Meals,Metro Transit,14.20,EUR,approved
+2024-03-19,Noah Novak,Training,Paper & Co,14.20,GBP,approved
+2024-03-20,Hugo Park,Office Supplies,Lunch Box,8.50,USD,approved
+2024-03-21,Leo Okafor,Client Entertainment,Paper & Co,78.90,USD,approved
+2024-03-22,Leo Costa,Office Supplies,Lunch Box,129.00,USD,approved
+2024-03-22,Dara Haas,Travel,Print Hub,42.00,USD,approved
+2024-03-23,Sam Cole,Client Entertainment,Cafe Verde,8.50,GBP,approved
+2024-03-24,Ines Lindt,Meals,LearnPro,8.50,USD,approved
+2024-03-24,Kira Dubois,Travel,Lunch Box,8.50,USD,approved
+2024-03-25,Eve Novak,Travel,Lunch Box,14.20,USD,approved
+2024-03-26,Paul Dubois,Travel,Print Hub,23.80,EUR,approved
+2024-03-27,Leo Mori,Travel,Lunch Box,42.00,USD,approved
+2024-03-27,Hugo Tanaka,Travel,Metro Transit,129.00,GBP,approved
+2024-03-28,Zoe Cole,Software,Print Hub,78.90,USD,approved
+2024-03-29,Ruby Marsh,Travel,Print Hub,8.50,USD,approved
+2024-03-30,Ruby Stone,Phone & Internet,Cloud Stack Inc,42.00,EUR,pending
+2024-03-30,Nina Vega,Meals,Print Hub,129.00,GBP,rejected
+2024-03-31,Ruby Voss,Training,Cafe Verde,14.20,USD,rejected
+2024-04-01,Kira Bauer,Office Supplies,City Taxi,129.00,EUR,approved
+2024-04-01,Kira Stone,Travel,Skyline Air,14.20,USD,pending
+2024-04-02,Mia Klein,Meals,Lunch Box,8.50,USD,pending
+2024-04-03,Yuki Voss,Software,Rail Connect,23.80,USD,rejected
+2024-04-04,Ian Klein,Meals,Paper & Co,8.50,USD,approved
+2024-04-04,Eve Marsh,Travel,City Taxi,23.80,GBP,approved
+2024-04-05,Noah Park,Meals,Metro Transit,129.00,USD,approved
+2024-04-06,Ruby Berg,Meals,Lunch Box,240.00,EUR,approved
+2024-04-07,Leo Klein,Travel,Grand Hotel,14.20,USD,approved
+2024-04-07,Mia Voss,Travel,Skyline Air,14.20,USD,approved
+2024-04-08,Zoe Ortiz,Travel,City Taxi,23.80,GBP,approved
+2024-04-09,Sofia Adler,Travel,LearnPro,23.80,USD,pending
+2024-04-10,Uma Dubois,Phone & Internet,Lunch Box,42.00,EUR,approved
+2024-04-10,Eve Costa,Client Entertainment,LearnPro,78.90,USD,pending
+2024-04-11,Omar Ortiz,Software,Data Tools Ltd,129.00,EUR,approved
+2024-04-12,Sofia Lund,Software,Lunch Box,78.90,USD,approved
+2024-04-12,Jude Okafor,Phone & Internet,Cloud Stack Inc,8.50,EUR,pending
+2024-04-13,Ravi Silva,Travel,Cloud Stack Inc,23.80,USD,approved
+2024-04-14,Omar Sato,Meals,LearnPro,890.00,USD,approved
+2024-04-15,Kai Cole,Client Entertainment,Cafe Verde,78.90,USD,approved
+2024-04-15,Eve Lund,Travel,Grand Hotel,1450.00,USD,approved
+2024-04-16,Felix Lindt,Software,Data Tools Ltd,14.20,USD,approved
+2024-04-17,Noah Novak,Client Entertainment,Paper & Co,42.00,USD,pending
+2024-04-18,Uma Tanaka,Meals,Cloud Stack Inc,890.00,EUR,approved
+2024-04-18,Paul Iqbal,Travel,LearnPro,23.80,EUR,approved
+2024-04-19,Mia Klein,Meals,Data Tools Ltd,42.00,USD,approved
+2024-04-20,Ada Berg,Travel,Cloud Stack Inc,8.50,USD,approved
+2024-04-20,Marco Park,Office Supplies,Paper & Co,14.20,EUR,approved
+2024-04-21,Marco Lindt,Travel,Data Tools Ltd,240.00,USD,pending
+2024-04-22,Rex Costa,Travel,Rail Connect,240.00,USD,approved
+2024-04-23,Liam Iqbal,Office Supplies,Paper & Co,23.80,USD,pending
+2024-04-23,Yuki Fontes,Travel,LearnPro,240.00,EUR,approved
+2024-04-24,Felix Marsh,Software,Skyline Air,23.80,EUR,approved
+2024-04-25,Kai Voss,Training,Lunch Box,14.20,USD,pending
+2024-04-26,Yuki Berg,Client Entertainment,Skyline Air,23.80,USD,approved
+2024-04-26,Omar Tanaka,Phone & Internet,Print Hub,415.00,EUR,approved
+2024-04-27,Yuki Silva,Software,Grand Hotel,14.20,EUR,approved
+2024-04-28,Sofia Riley,Travel,Cafe Verde,14.20,EUR,approved
+2024-04-28,Uma Khan,Client Entertainment,Print Hub,890.00,USD,approved
+2024-04-29,Liam Cole,Phone & Internet,LearnPro,78.90,GBP,approved
+2024-04-30,Zoe Tanaka,Client Entertainment,Grand Hotel,14.20,USD,pending
+2024-05-01,Liam Iqbal,Meals,Lunch Box,240.00,EUR,approved
+2024-05-01,Omar Novak,Travel,Paper & Co,240.00,GBP,approved
+2024-05-02,Eve Fontes,Client Entertainment,Grand Hotel,78.90,USD,approved
+2024-05-03,Ian Moreau,Meals,Skyline Air,240.00,USD,rejected
+2024-05-04,Ruby Dubois,Office Supplies,LearnPro,240.00,EUR,rejected
+2024-05-04,Paul Vega,Meals,Paper & Co,129.00,EUR,approved
+2024-05-05,Dara Costa,Software,Cafe Verde,8.50,USD,approved
+2024-05-06,Ava Weber,Meals,City Taxi,42.00,EUR,approved
+2024-05-07,Hugo Voss,Training,Grand Hotel,8.50,USD,approved
+2024-05-07,Ian Weber,Travel,Data Tools Ltd,42.00,USD,approved
+2024-05-08,Uma Ortiz,Travel,Cafe Verde,78.90,EUR,approved
+2024-05-09,Dara Cole,Training,Cafe Verde,23.80,USD,approved
+2024-05-09,Ruby Mori,Travel,Skyline Air,14.20,EUR,approved
+2024-05-10,Ada Reyes,Phone & Internet,Grand Hotel,14.20,USD,approved
+2024-05-11,Ines Stone,Meals,Print Hub,78.90,USD,approved
+2024-05-12,Ruby Novak,Office Supplies,City Taxi,1450.00,EUR,approved
+2024-05-12,Tess Voss,Meals,City Taxi,78.90,USD,approved
+2024-05-13,Noah Riley,Office Supplies,Paper & Co,8.50,USD,approved
+2024-05-14,Mia Voss,Office Supplies,Data Tools Ltd,129.00,USD,approved
+2024-05-15,Zoe Reyes,Software,Cloud Stack Inc,8.50,USD,approved
+2024-05-15,Ravi Reyes,Meals,Print Hub,14.20,USD,approved
+2024-05-16,Dara Voss,Phone & Internet,Data Tools Ltd,8.50,USD,approved
+2024-05-17,Hugo Dubois,Meals,LearnPro,890.00,USD,pending
+2024-05-17,Ada Berg,Client Entertainment,Cafe Verde,23.80,USD,approved
+2024-05-18,Dara Park,Travel,Cafe Verde,8.50,GBP,rejected
+2024-05-19,Mia Khan,Phone & Internet,Lunch Box,23.80,EUR,approved
+2024-05-20,Tess Sato,Travel,Data Tools Ltd,129.00,USD,rejected
+2024-05-20,Uma Sato,Client Entertainment,Data Tools Ltd,42.00,USD,approved
+2024-05-21,Hugo Silva,Meals,Rail Connect,78.90,USD,approved
+2024-05-22,Ada Mori,Meals,LearnPro,78.90,USD,approved
+2024-05-23,Sofia Lund,Travel,Grand Hotel,78.90,USD,approved
+2024-05-23,Zoe Nair,Travel,Cloud Stack Inc,14.20,USD,approved
+2024-05-24,Uma Fontes,Travel,Skyline Air,8.50,USD,approved
+2024-05-25,Nina Iqbal,Training,Cloud Stack Inc,8.50,USD,approved
+2024-05-26,Yuki Costa,Software,City Taxi,8.50,EUR,approved
+2024-05-26,Ian Adler,Meals,Cloud Stack Inc,42.00,USD,rejected
+2024-05-27,Paul Voss,Software,Metro Transit,23.80,USD,rejected
+2024-05-28,Noah Fontes,Meals,Cafe Verde,42.00,USD,approved
+2024-05-28,Felix Dubois,Software,Data Tools Ltd,129.00,GBP,approved
+2024-05-29,Uma Voss,Meals,Cloud Stack Inc,8.50,USD,approved
+2024-05-30,Dara Stone,Training,Rail Connect,23.80,USD,pending
+2024-05-31,Yuki Lindt,Travel,Grand Hotel,23.80,EUR,approved
+2024-05-31,Noah Stone,Client Entertainment,Skyline Air,14.20,USD,approved
+2024-06-01,Sofia Haas,Software,Metro Transit,8.50,USD,approved
+2024-06-02,Liam Lindt,Meals,Print Hub,14.20,USD,approved
+2024-06-03,Noah Costa,Software,Grand Hotel,8.50,USD,rejected
+2024-06-03,Liam Silva,Training,Grand Hotel,129.00,USD,pending
+2024-06-04,Omar Tanaka,Travel,Skyline Air,14.20,EUR,approved
+2024-06-05,Yuki Weber,Meals,Grand Hotel,14.20,EUR,pending
+2024-06-05,Rex Stone,Meals,Skyline Air,23.80,USD,approved
+2024-06-06,Ada Cole,Phone & Internet,Grand Hotel,129.00,USD,approved
+2024-06-07,Omar Costa,Software,Paper & Co,8.50,USD,approved
+2024-06-08,Jude Mori,Travel,Metro Transit,23.80,GBP,approved
+2024-06-08,Paul Fontes,Phone & Internet,Cloud Stack Inc,23.80,USD,approved
+2024-06-09,Marco Sato,Software,Metro Transit,78.90,USD,approved
+2024-06-10,Uma Adler,Office Supplies,Cafe Verde,42.00,EUR,approved
+2024-06-11,Felix Riley,Software,City Taxi,890.00,USD,approved
+2024-06-11,Lena Ortiz,Office Supplies,Rail Connect,14.20,USD,pending
+2024-06-12,Yuki Okafor,Meals,Lunch Box,78.90,EUR,approved
+2024-06-13,Ruby Lindt,Meals,Metro Transit,23.80,GBP,pending
+2024-06-13,Ada Ortiz,Meals,Print Hub,890.00,USD,rejected
+2024-06-14,Dara Stone,Training,Rail Connect,240.00,USD,approved
+2024-06-15,Ian Marsh,Meals,LearnPro,42.00,USD,approved
+2024-06-16,Liam Reyes,Meals,Paper & Co,42.00,USD,approved
+2024-06-16,Emil Weber,Travel,Cafe Verde,14.20,EUR,approved
+2024-06-17,Nina Sato,Travel,Lunch Box,23.80,USD,approved
+2024-06-18,Ada Bauer,Software,LearnPro,14.20,EUR,approved
+2024-06-19,Jude Mori,Travel,Data Tools Ltd,42.00,EUR,approved
+2024-06-19,Paul Sato,Meals,Data Tools Ltd,14.20,USD,approved
+2024-06-20,Sofia Haas,Travel,City Taxi,240.00,EUR,approved
+2024-06-21,Omar Vega,Office Supplies,Cafe Verde,14.20,USD,rejected
+2024-06-22,Eve Novak,Meals,Cloud Stack Inc,23.80,EUR,approved
+2024-06-22,Zoe Berg,Software,Paper & Co,23.80,USD,approved
+2024-06-23,Lena Stone,Travel,Rail Connect,42.00,USD,approved
+2024-06-24,Eve Lund,Phone & Internet,Cloud Stack Inc,8.50,EUR,approved
+2024-06-24,Zoe Silva,Phone & Internet,Grand Hotel,78.90,EUR,rejected
+2024-06-25,Nina Costa,Travel,Data Tools Ltd,8.50,USD,approved
+2024-06-26,Dara Stone,Office Supplies,LearnPro,129.00,USD,rejected
+2024-06-27,Kai Voss,Meals,Paper & Co,8.50,USD,approved
+2024-06-27,Rex Haas,Travel,Data Tools Ltd,14.20,USD,pending
+2024-06-28,Mia Mori,Client Entertainment,Print Hub,23.80,EUR,approved
+2024-06-29,Liam Sato,Meals,Metro Transit,23.80,GBP,approved
+2024-06-30,Ian Tanaka,Training,Print Hub,240.00,EUR,approved
+2024-06-30,Leo Cole,Office Supplies,Grand Hotel,8.50,USD,approved
+2024-07-01,Dara Klein,Training,Rail Connect,78.90,GBP,approved
+2024-07-02,Ada Costa,Office Supplies,Rail Connect,14.20,USD,approved
+2024-07-02,Rex Marsh,Travel,Skyline Air,23.80,EUR,approved
+2024-07-03,Zoe Lindt,Phone & Internet,Skyline Air,42.00,USD,approved
+2024-07-04,Rex Berg,Travel,Lunch Box,78.90,USD,rejected
+2024-07-05,Ava Bauer,Office Supplies,Paper & Co,14.20,USD,approved
+2024-07-05,Ines Adler,Training,Cafe Verde,890.00,USD,approved
+2024-07-06,Noah Marsh,Meals,LearnPro,42.00,USD,approved
+2024-07-07,Ian Mori,Client Entertainment,Cafe Verde,23.80,USD,approved
+2024-07-08,Ian Lindt,Client Entertainment,Cafe Verde,42.00,USD,approved
+2024-07-08,Mia Adler,Client Entertainment,City Taxi,415.00,EUR,approved
+2024-07-09,Ian Nair,Training,Paper & Co,42.00,USD,pending
+2024-07-10,Felix Lindt,Travel,Print Hub,23.80,USD,approved
+2024-07-10,Emil Vega,Training,Cloud Stack Inc,8.50,EUR,approved
+2024-07-11,Lena Park,Travel,LearnPro,8.50,USD,pending
+2024-07-12,Yuki Weber,Travel,Rail Connect,8.50,USD,approved
+2024-07-13,Felix Sato,Meals,Lunch Box,14.20,USD,approved
+2024-07-13,Leo Klein,Phone & Internet,Grand Hotel,14.20,USD,pending
+2024-07-14,Ines Sato,Meals,Skyline Air,8.50,EUR,approved
+2024-07-15,Sam Vega,Travel,City Taxi,14.20,USD,approved
+2024-07-16,Paul Lund,Travel,Print Hub,23.80,USD,approved
+2024-07-16,Uma Ortiz,Meals,Metro Transit,14.20,EUR,approved
+2024-07-17,Ava Reyes,Software,Metro Transit,14.20,USD,rejected
+2024-07-18,Hugo Dubois,Travel,Rail Connect,23.80,USD,approved
+2024-07-19,Yuki Reyes,Meals,Print Hub,129.00,USD,approved
+2024-07-19,Uma Tanaka,Software,Rail Connect,8.50,USD,approved
+2024-07-20,Yuki Sato,Office Supplies,Cloud Stack Inc,8.50,EUR,pending
+2024-07-21,Sam Bauer,Meals,LearnPro,42.00,EUR,approved
+2024-07-21,Ruby Ortiz,Meals,Lunch Box,42.00,EUR,approved
+2024-07-22,Marco Vega,Office Supplies,Skyline Air,240.00,USD,approved
+2024-07-23,Paul Iqbal,Software,Grand Hotel,240.00,USD,approved
+2024-07-24,Hugo Berg,Travel,Grand Hotel,23.80,EUR,approved
+2024-07-24,Eve Bauer,Travel,Skyline Air,8.50,USD,approved
+2024-07-25,Liam Sato,Meals,Skyline Air,14.20,USD,approved
+2024-07-26,Noah Iqbal,Phone & Internet,Grand Hotel,8.50,EUR,approved
+2024-07-27,Dara Berg,Meals,LearnPro,8.50,USD,approved
+2024-07-27,Felix Stone,Office Supplies,Paper & Co,23.80,USD,approved
+2024-07-28,Marco Dubois,Travel,Grand Hotel,8.50,EUR,approved
+2024-07-29,Omar Voss,Travel,Cafe Verde,14.20,EUR,approved
+2024-07-29,Sam Klein,Travel,Lunch Box,14.20,USD,rejected
+2024-07-30,Emil Lund,Travel,Print Hub,8.50,USD,approved
+2024-07-31,Sam Park,Client Entertainment,City Taxi,23.80,USD,approved
+2024-08-01,Kira Silva,Meals,Skyline Air,8.50,GBP,approved
+2024-08-01,Nina Iqbal,Client Entertainment,Grand Hotel,14.20,EUR,approved
+2024-08-02,Jude Khan,Meals,City Taxi,78.90,USD,approved
+2024-08-03,Noah Haas,Software,Cafe Verde,23.80,EUR,approved
+2024-08-04,Sofia Vega,Training,LearnPro,42.00,EUR,pending
+2024-08-04,Kai Adler,Meals,Metro Transit,8.50,USD,approved
+2024-08-05,Ruby Ortiz,Travel,Grand Hotel,42.00,USD,pending
+2024-08-06,Kai Tanaka,Travel,Metro Transit,8.50,USD,approved
+2024-08-07,Ravi Riley,Client Entertainment,Data Tools Ltd,129.00,USD,approved
+2024-08-07,Kira Okafor,Meals,City Taxi,240.00,USD,approved
+2024-08-08,Mia Novak,Meals,Print Hub,78.90,EUR,approved
+2024-08-09,Jude Moreau,Software,Paper & Co,240.00,USD,approved
+2024-08-09,Ravi Vega,Training,Cafe Verde,42.00,USD,approved
+2024-08-10,Ada Silva,Travel,Metro Transit,14.20,USD,approved
+2024-08-11,Noah Silva,Meals,Data Tools Ltd,23.80,USD,approved
+2024-08-12,Rex Klein,Software,Cafe Verde,23.80,USD,approved
+2024-08-12,Hugo Khan,Training,Data Tools Ltd,14.20,EUR,approved
+2024-08-13,Nina Tanaka,Client Entertainment,Skyline Air,8.50,USD,approved
+2024-08-14,Sofia Khan,Meals,Print Hub,78.90,GBP,approved
+2024-08-15,Liam Ortiz,Client Entertainment,Data Tools Ltd,23.80,USD,approved
+2024-08-15,Omar Bauer,Software,Metro Transit,23.80,GBP,approved
+2024-08-16,Felix Park,Office Supplies,Skyline Air,14.20,EUR,approved
+2024-08-17,Ava Weber,Office Supplies,Lunch Box,415.00,USD,rejected
+2024-08-17,Ada Okafor,Software,Cloud Stack Inc,23.80,EUR,approved
+2024-08-18,Ruby Silva,Software,Grand Hotel,78.90,GBP,approved
+2024-08-19,Yuki Ortiz,Phone & Internet,Paper & Co,8.50,USD,approved
+2024-08-20,Ravi Iqbal,Travel,City Taxi,14.20,GBP,approved
+2024-08-20,Mia Novak,Office Supplies,Data Tools Ltd,23.80,EUR,approved
+2024-08-21,Liam Park,Meals,Metro Transit,23.80,GBP,approved
+2024-08-22,Paul Bauer,Software,LearnPro,78.90,EUR,approved
+2024-08-23,Ada Okafor,Meals,Print Hub,8.50,EUR,approved
+2024-08-23,Eve Lund,Training,Cloud Stack Inc,129.00,EUR,approved
+2024-08-24,Ruby Adler,Software,Cafe Verde,23.80,EUR,approved
+2024-08-25,Uma Khan,Travel,Lunch Box,23.80,EUR,approved
+2024-08-25,Omar Lindt,Meals,LearnPro,42.00,USD,approved
+2024-08-26,Jude Weber,Travel,City Taxi,23.80,GBP,approved
+2024-08-27,Emil Novak,Client Entertainment,Paper & Co,42.00,EUR,approved
+2024-08-28,Mia Silva,Travel,City Taxi,23.80,EUR,approved
+2024-08-28,Tess Lindt,Travel,Print Hub,240.00,USD,approved
+2024-08-29,Marco Riley,Meals,Paper & Co,78.90,USD,approved
+2024-08-30,Liam Fontes,Meals,Data Tools Ltd,23.80,USD,approved
+2024-08-31,Yuki Marsh,Office Supplies,Skyline Air,415.00,EUR,approved
+2024-08-31,Emil Silva,Travel,Print Hub,415.00,USD,approved
+2024-09-01,Tess Adler,Office Supplies,Cafe Verde,14.20,USD,approved
+2024-09-02,Ruby Riley,Software,Skyline Air,8.50,EUR,pending
+2024-09-03,Ada Adler,Travel,City Taxi,23.80,USD,approved
+2024-09-03,Rex Fontes,Client Entertainment,LearnPro,78.90,USD,rejected
+2024-09-04,Rex Voss,Travel,LearnPro,42.00,USD,approved
+2024-09-05,Ines Riley,Meals,Paper & Co,42.00,USD,approved
+2024-09-05,Sam Stone,Phone & Internet,Print Hub,78.90,EUR,approved
+2024-09-06,Jude Iqbal,Meals,Paper & Co,14.20,USD,approved
+2024-09-07,Ava Mori,Training,Metro Transit,42.00,EUR,approved
+2024-09-08,Ravi Fontes,Client Entertainment,Print Hub,78.90,EUR,approved
+2024-09-08,Zoe Mori,Meals,Cloud Stack Inc,14.20,USD,approved
+2024-09-09,Sofia Moreau,Travel,City Taxi,8.50,EUR,pending
+2024-09-10,Mia Lindt,Office Supplies,Metro Transit,78.90,EUR,approved
+2024-09-11,Noah Costa,Software,City Taxi,42.00,USD,approved
+2024-09-11,Felix Mori,Meals,Grand Hotel,8.50,USD,approved
+2024-09-12,Kai Sato,Office Supplies,Cafe Verde,8.50,EUR,approved
+2024-09-13,Hugo Ortiz,Software,City Taxi,240.00,USD,approved
+2024-09-13,Ines Vega,Meals,Data Tools Ltd,129.00,EUR,approved
+2024-09-14,Sam Riley,Travel,Print Hub,415.00,EUR,approved
+2024-09-15,Kira Weber,Travel,Skyline Air,240.00,EUR,approved
+2024-09-16,Hugo Dubois,Meals,Cafe Verde,14.20,USD,approved
+2024-09-16,Kai Moreau,Travel,Cafe Verde,14.20,USD,approved
+2024-09-17,Mia Mori,Phone & Internet,Lunch Box,129.00,EUR,approved
+2024-09-18,Ruby Tanaka,Meals,Skyline Air,890.00,USD,rejected
+2024-09-19,Paul Marsh,Software,Metro Transit,129.00,EUR,approved
+2024-09-19,Ian Iqbal,Travel,City Taxi,129.00,USD,approved
+2024-09-20,Kira Bauer,Phone & Internet,Cafe Verde,14.20,USD,approved
+2024-09-21,Tess Ortiz,Meals,Skyline Air,240.00,EUR,approved
+2024-09-21,Paul Costa,Meals,Paper & Co,23.80,USD,approved
+2024-09-22,Leo Sato,Client Entertainment,City Taxi,240.00,GBP,approved
+2024-09-23,Lena Costa,Meals,Paper & Co,8.50,EUR,approved
+2024-09-24,Kai Stone,Meals,Cafe Verde,78.90,USD,approved
+2024-09-24,Tess Moreau,Training,Rail Connect,14.20,USD,approved
+2024-09-25,Kai Voss,Phone & Internet,Rail Connect,42.00,USD,rejected
+2024-09-26,Ava Lindt,Training,Metro Transit,23.80,EUR,approved
+2024-09-27,Liam Nair,Travel,Cafe Verde,14.20,USD,approved
+2024-09-27,Noah Bauer,Travel,Grand Hotel,415.00,USD,approved
+2024-09-28,Emil Haas,Meals,Cloud Stack Inc,890.00,USD,approved
+2024-09-29,Lena Costa,Travel,Grand Hotel,14.20,USD,approved
+2024-09-30,Liam Okafor,Travel,Print Hub,23.80,USD,approved
+2024-09-30,Ruby Nair,Phone & Internet,Cloud Stack Inc,23.80,EUR,approved
+2024-10-01,Ruby Lindt,Meals,Grand Hotel,129.00,GBP,approved
+2024-10-02,Paul Haas,Phone & Internet,City Taxi,8.50,USD,approved
+2024-10-02,Jude Stone,Meals,City Taxi,129.00,USD,approved
+2024-10-03,Ava Reyes,Meals,Print Hub,14.20,USD,rejected
+2024-10-04,Ines Klein,Phone & Internet,Rail Connect,129.00,USD,approved
+2024-10-05,Mia Haas,Meals,Rail Connect,78.90,USD,approved
+2024-10-05,Dara Cole,Software,Cloud Stack Inc,42.00,USD,approved
+2024-10-06,Ines Dubois,Office Supplies,City Taxi,1450.00,EUR,approved
+2024-10-07,Yuki Bauer,Office Supplies,Cloud Stack Inc,8.50,USD,approved
+2024-10-08,Omar Nair,Software,Rail Connect,42.00,USD,approved
+2024-10-08,Liam Stone,Travel,Lunch Box,129.00,EUR,pending
+2024-10-09,Omar Reyes,Travel,Metro Transit,23.80,GBP,approved
+2024-10-10,Eve Vega,Software,Skyline Air,23.80,USD,approved
+2024-10-10,Kira Okafor,Software,Rail Connect,8.50,GBP,approved
+2024-10-11,Uma Klein,Meals,Lunch Box,129.00,USD,rejected
+2024-10-12,Ava Nair,Travel,Data Tools Ltd,78.90,USD,approved
+2024-10-13,Kira Okafor,Meals,Cafe Verde,14.20,USD,approved
+2024-10-13,Tess Lund,Software,Lunch Box,23.80,USD,approved
+2024-10-14,Hugo Weber,Travel,Cloud Stack Inc,42.00,USD,approved
+2024-10-15,Tess Costa,Travel,Cafe Verde,240.00,EUR,approved
+2024-10-16,Ian Moreau,Office Supplies,Cloud Stack Inc,42.00,EUR,approved
+2024-10-16,Yuki Haas,Travel,Paper & Co,78.90,EUR,pending
+2024-10-17,Eve Mori,Phone & Internet,Skyline Air,8.50,USD,approved
+2024-10-18,Kira Berg,Software,Cafe Verde,415.00,USD,approved
+2024-10-19,Dara Klein,Meals,Cafe Verde,14.20,USD,approved
+2024-10-19,Yuki Lund,Training,Data Tools Ltd,78.90,USD,pending
+2024-10-20,Ada Klein,Travel,Data Tools Ltd,14.20,USD,pending
+2024-10-21,Dara Sato,Travel,Cafe Verde,14.20,GBP,approved
+2024-10-21,Noah Marsh,Office Supplies,Grand Hotel,8.50,USD,pending
+2024-10-22,Ian Bauer,Meals,Lunch Box,78.90,USD,approved
+2024-10-23,Paul Reyes,Meals,Skyline Air,23.80,EUR,approved
+2024-10-24,Kira Lund,Phone & Internet,Data Tools Ltd,42.00,EUR,approved
+2024-10-24,Ines Vega,Software,Rail Connect,42.00,EUR,approved
+2024-10-25,Omar Klein,Software,Cloud Stack Inc,23.80,USD,pending
+2024-10-26,Liam Stone,Training,Metro Transit,14.20,USD,pending
+2024-10-27,Rex Khan,Software,Lunch Box,890.00,EUR,approved
+2024-10-27,Ada Marsh,Client Entertainment,LearnPro,8.50,GBP,approved
+2024-10-28,Felix Bauer,Meals,Cafe Verde,415.00,USD,approved
+2024-10-29,Mia Novak,Software,Cafe Verde,415.00,USD,approved
+2024-10-29,Ravi Nair,Phone & Internet,Lunch Box,8.50,USD,approved
+2024-10-30,Kai Novak,Travel,Grand Hotel,415.00,USD,approved
+2024-10-31,Tess Park,Phone & Internet,Rail Connect,42.00,USD,approved
+2024-11-01,Ines Voss,Meals,Paper & Co,890.00,USD,approved
+2024-11-01,Liam Voss,Office Supplies,Skyline Air,8.50,USD,approved
+2024-11-02,Kai Dubois,Client Entertainment,Paper & Co,240.00,USD,approved
+2024-11-03,Lena Weber,Travel,Skyline Air,23.80,EUR,approved
+2024-11-04,Tess Costa,Software,Print Hub,78.90,USD,approved
+2024-11-04,Tess Fontes,Travel,Rail Connect,23.80,GBP,approved
+2024-11-05,Zoe Silva,Phone & Internet,Print Hub,129.00,USD,rejected
+2024-11-06,Tess Silva,Travel,Rail Connect,8.50,USD,approved
+2024-11-06,Ian Tanaka,Meals,Grand Hotel,23.80,EUR,pending
+2024-11-07,Paul Marsh,Office Supplies,Data Tools Ltd,14.20,EUR,approved
+2024-11-08,Dara Mori,Office Supplies,Metro Transit,42.00,USD,approved
+2024-11-09,Nina Nair,Client Entertainment,Print Hub,8.50,EUR,approved
+2024-11-09,Dara Novak,Meals,Metro Transit,78.90,EUR,approved
+2024-11-10,Kira Okafor,Meals,Skyline Air,42.00,GBP,rejected
+2024-11-11,Omar Bauer,Travel,Paper & Co,129.00,USD,approved
+2024-11-12,Ian Khan,Meals,Grand Hotel,23.80,USD,approved
+2024-11-12,Ada Silva,Phone & Internet,Print Hub,23.80,USD,pending
+2024-11-13,Nina Reyes,Travel,Skyline Air,240.00,USD,approved
+2024-11-14,Nina Costa,Meals,Data Tools Ltd,42.00,EUR,approved
+2024-11-15,Yuki Costa,Travel,Cloud Stack Inc,8.50,USD,approved
+2024-11-15,Zoe Silva,Client Entertainment,Metro Transit,129.00,EUR,rejected
+2024-11-16,Rex Ortiz,Software,Skyline Air,23.80,USD,approved
+2024-11-17,Ian Ortiz,Travel,Cafe Verde,42.00,EUR,approved
+2024-11-17,Ravi Cole,Office Supplies,Skyline Air,14.20,USD,pending
+2024-11-18,Hugo Nair,Meals,Grand Hotel,129.00,USD,approved
+2024-11-19,Paul Khan,Travel,City Taxi,129.00,EUR,approved
+2024-11-20,Yuki Fontes,Meals,Paper & Co,14.20,USD,approved
+2024-11-20,Paul Park,Meals,Lunch Box,14.20,USD,approved
+2024-11-21,Felix Nair,Client Entertainment,Metro Transit,8.50,EUR,approved
+2024-11-22,Sofia Haas,Software,Lunch Box,8.50,USD,approved
+2024-11-23,Kira Silva,Meals,Cloud Stack Inc,42.00,EUR,pending
+2024-11-23,Kai Fontes,Meals,Paper & Co,78.90,USD,approved
+2024-11-24,Nina Vega,Meals,Paper & Co,8.50,USD,approved
+2024-11-25,Ruby Bauer,Phone & Internet,Metro Transit,42.00,EUR,approved
+2024-11-25,Ravi Vega,Office Supplies,Metro Transit,8.50,EUR,approved
+2024-11-26,Zoe Iqbal,Software,Cafe Verde,8.50,GBP,approved
+2024-11-27,Sam Riley,Software,Grand Hotel,8.50,USD,pending
+2024-11-28,Yuki Silva,Meals,Cloud Stack Inc,14.20,USD,pending
+2024-11-28,Liam Stone,Training,Metro Transit,240.00,USD,approved
+2024-11-29,Noah Mori,Meals,Cloud Stack Inc,8.50,USD,pending
+2024-11-30,Ian Sato,Software,Skyline Air,42.00,EUR,approved
+2024-12-01,Hugo Cole,Phone & Internet,Grand Hotel,78.90,EUR,approved
+2024-12-01,Kira Klein,Office Supplies,Skyline Air,14.20,EUR,approved
+2024-12-02,Ava Voss,Software,LearnPro,14.20,GBP,approved
+2024-12-03,Dara Fontes,Meals,Paper & Co,78.90,USD,approved
+2024-12-03,Eve Silva,Meals,Data Tools Ltd,78.90,USD,pending
+2024-12-04,Hugo Reyes,Software,Rail Connect,14.20,EUR,approved
+2024-12-05,Lena Okafor,Software,Rail Connect,890.00,USD,approved
+2024-12-06,Kira Haas,Travel,Lunch Box,14.20,GBP,approved
+2024-12-06,Ravi Klein,Meals,Skyline Air,8.50,USD,approved
+2024-12-07,Jude Marsh,Travel,Paper & Co,14.20,USD,approved
+2024-12-08,Felix Mori,Travel,Print Hub,14.20,USD,approved
+2024-12-09,Kira Voss,Software,Cafe Verde,78.90,USD,approved
+2024-12-09,Hugo Ortiz,Phone & Internet,LearnPro,8.50,USD,approved
+2024-12-10,Hugo Moreau,Travel,Cafe Verde,240.00,USD,approved
+2024-12-11,Mia Novak,Phone & Internet,LearnPro,14.20,USD,approved
+2024-12-12,Ines Silva,Meals,City Taxi,23.80,EUR,approved
+2024-12-12,Ian Khan,Travel,Print Hub,8.50,USD,rejected
+2024-12-13,Leo Khan,Meals,LearnPro,42.00,USD,approved
+2024-12-14,Ian Park,Meals,Lunch Box,23.80,USD,approved
+2024-12-14,Kira Voss,Phone & Internet,Print Hub,23.80,USD,approved
+2024-12-15,Ava Sato,Training,Lunch Box,14.20,USD,approved
+2024-12-16,Ada Khan,Software,Grand Hotel,1450.00,EUR,approved
+2024-12-17,Ravi Novak,Travel,LearnPro,240.00,USD,approved
+2024-12-17,Ines Nair,Travel,Cafe Verde,23.80,USD,approved
+2024-12-18,Zoe Ortiz,Meals,Rail Connect,42.00,USD,approved
+2024-12-19,Felix Haas,Office Supplies,Data Tools Ltd,1450.00,USD,approved
+2024-12-20,Eve Marsh,Travel,Metro Transit,8.50,USD,approved
+2024-12-20,Dara Adler,Office Supplies,Grand Hotel,8.50,EUR,approved
+2024-12-21,Omar Moreau,Software,Cloud Stack Inc,78.90,USD,pending
+2024-12-22,Sofia Lund,Meals,Lunch Box,8.50,GBP,approved
+2024-12-22,Eve Stone,Travel,Grand Hotel,78.90,USD,approved
+2024-12-23,Omar Moreau,Client Entertainment,Skyline Air,14.20,USD,pending
+2024-12-24,Ava Nair,Meals,Print Hub,129.00,EUR,approved
+2024-12-25,Ravi Sato,Travel,Metro Transit,14.20,USD,approved
+2024-12-25,Mia Okafor,Training,Rail Connect,78.90,USD,approved
+2024-12-26,Liam Berg,Meals,LearnPro,415.00,GBP,approved
+2024-12-27,Ines Fontes,Software,Skyline Air,890.00,USD,rejected
+2024-12-28,Tess Tanaka,Travel,Rail Connect,78.90,USD,approved
+2024-12-28,Ravi Marsh,Client Entertainment,Grand Hotel,78.90,USD,approved
+2024-12-29,Tess Fontes,Office Supplies,LearnPro,14.20,USD,approved
+2024-12-30,Sofia Bauer,Meals,Rail Connect,14.20,EUR,approved
+2024-12-31,Lena Costa,Travel,Paper & Co,23.80,USD,approved
+2024-12-31,Rex Ortiz,Training,Cafe Verde,78.90,EUR,pending
+2025-01-01,Zoe Stone,Meals,Cloud Stack Inc,129.00,USD,approved
+2025-01-02,Zoe Weber,Client Entertainment,Rail Connect,42.00,USD,rejected
+2025-01-02,Dara Haas,Software,Metro Transit,8.50,USD,pending
+2025-01-03,Sam Marsh,Travel,Data Tools Ltd,240.00,USD,pending
+2025-01-04,Ian Stone,Meals,Cafe Verde,14.20,EUR,pending
+2025-01-05,Yuki Bauer,Travel,Metro Transit,890.00,GBP,approved
+2025-01-05,Jude Moreau,Software,Cloud Stack Inc,14.20,USD,pending
+2025-01-06,Eve Silva,Office Supplies,Data Tools Ltd,129.00,USD,approved
+2025-01-07,Omar Lindt,Client Entertainment,LearnPro,415.00,USD,approved
+2025-01-08,Liam Mori,Office Supplies,Metro Transit,8.50,GBP,approved
+2025-01-08,Tess Lund,Travel,LearnPro,14.20,USD,approved
+2025-01-09,Marco Klein,Client Entertainment,Paper & Co,23.80,EUR,approved
+2025-01-10,Liam Dubois,Meals,Cloud Stack Inc,14.20,USD,approved
+2025-01-10,Mia Cole,Phone & Internet,Lunch Box,42.00,GBP,approved
+2025-01-11,Hugo Lindt,Training,Grand Hotel,42.00,USD,approved
+2025-01-12,Dara Riley,Travel,LearnPro,14.20,EUR,pending
+2025-01-13,Dara Okafor,Software,Rail Connect,42.00,EUR,approved
+2025-01-13,Ravi Okafor,Meals,Paper & Co,78.90,EUR,approved
+2025-01-14,Yuki Park,Meals,Cafe Verde,23.80,USD,approved
+2025-01-15,Ravi Nair,Meals,Cloud Stack Inc,23.80,USD,approved
+2025-01-16,Liam Berg,Office Supplies,Metro Transit,240.00,USD,approved
+2025-01-16,Ines Khan,Software,Grand Hotel,23.80,GBP,approved
+2025-01-17,Liam Lund,Training,Data Tools Ltd,129.00,USD,approved
+2025-01-18,Dara Weber,Phone & Internet,LearnPro,78.90,USD,approved
+2025-01-18,Noah Iqbal,Travel,Lunch Box,8.50,USD,approved
+2025-01-19,Omar Iqbal,Phone & Internet,Paper & Co,78.90,USD,approved
+2025-01-20,Sofia Klein,Meals,Grand Hotel,23.80,USD,approved
+2025-01-21,Eve Klein,Training,Skyline Air,23.80,USD,approved
+2025-01-21,Ruby Klein,Travel,LearnPro,42.00,USD,approved
+2025-01-22,Liam Novak,Travel,Data Tools Ltd,42.00,USD,approved
+2025-01-23,Kira Haas,Phone & Internet,Grand Hotel,8.50,EUR,approved
+2025-01-24,Noah Costa,Office Supplies,Rail Connect,14.20,EUR,rejected
+2025-01-24,Sam Weber,Training,Paper & Co,23.80,USD,approved
+2025-01-25,Liam Dubois,Meals,LearnPro,14.20,EUR,approved
+2025-01-26,Kira Okafor,Software,Cafe Verde,8.50,USD,approved
+2025-01-27,Leo Stone,Meals,Print Hub,23.80,USD,approved
+2025-01-27,Ian Fontes,Software,Skyline Air,890.00,GBP,approved
+2025-01-28,Ada Riley,Meals,Lunch Box,23.80,GBP,approved
+2025-01-29,Ada Iqbal,Training,Data Tools Ltd,14.20,USD,approved
+2025-01-29,Ian Stone,Software,LearnPro,23.80,USD,approved
+2025-01-30,Lena Marsh,Client Entertainment,Skyline Air,23.80,GBP,approved
+2025-01-31,Jude Nair,Office Supplies,Skyline Air,23.80,EUR,pending
+2025-02-01,Kai Fontes,Phone & Internet,Rail Connect,42.00,USD,approved
+2025-02-01,Ruby Dubois,Travel,City Taxi,78.90,USD,approved
+2025-02-02,Kai Marsh,Travel,Paper & Co,78.90,EUR,approved
+2025-02-03,Ines Vega,Client Entertainment,Metro Transit,8.50,EUR,approved
+2025-02-04,Omar Khan,Meals,City Taxi,78.90,USD,approved
+2025-02-04,Ada Dubois,Meals,Data Tools Ltd,14.20,EUR,approved
+2025-02-05,Rex Mori,Meals,Print Hub,240.00,USD,approved
+2025-02-06,Ines Mori,Phone & Internet,Skyline Air,8.50,GBP,approved
+2025-02-06,Felix Haas,Meals,Lunch Box,890.00,USD,approved
+2025-02-07,Mia Klein,Training,Data Tools Ltd,78.90,USD,rejected
+2025-02-08,Ines Marsh,Software,Print Hub,240.00,EUR,approved
+2025-02-09,Tess Park,Travel,Lunch Box,8.50,USD,pending
+2025-02-09,Nina Berg,Client Entertainment,Cloud Stack Inc,23.80,USD,approved
+2025-02-10,Dara Nair,Software,Cafe Verde,890.00,USD,pending
+2025-02-11,Eve Mori,Office Supplies,Print Hub,8.50,USD,approved
+2025-02-12,Tess Dubois,Travel,Paper & Co,129.00,USD,approved
+2025-02-12,Uma Berg,Software,Metro Transit,42.00,USD,approved
+2025-02-13,Jude Marsh,Meals,LearnPro,14.20,USD,rejected
+2025-02-14,Liam Marsh,Client Entertainment,LearnPro,78.90,USD,approved
+2025-02-14,Hugo Silva,Office Supplies,LearnPro,14.20,USD,pending
+2025-02-15,Dara Reyes,Training,Rail Connect,23.80,USD,approved
+2025-02-16,Hugo Lindt,Software,Print Hub,23.80,USD,approved
+2025-02-17,Kira Cole,Travel,LearnPro,23.80,USD,approved
+2025-02-17,Ian Novak,Meals,Lunch Box,1450.00,EUR,approved
+2025-02-18,Nina Lindt,Software,Print Hub,129.00,USD,approved
+2025-02-19,Rex Mori,Travel,Data Tools Ltd,78.90,GBP,approved
+2025-02-20,Eve Dubois,Meals,Grand Hotel,14.20,GBP,approved
+2025-02-20,Paul Lund,Software,Grand Hotel,240.00,USD,approved
+2025-02-21,Leo Lindt,Office Supplies,Cafe Verde,42.00,EUR,approved
+2025-02-22,Liam Cole,Meals,Skyline Air,14.20,USD,approved
+2025-02-23,Uma Nair,Client Entertainment,Data Tools Ltd,8.50,USD,approved
+2025-02-23,Uma Nair,Training,Cloud Stack Inc,42.00,USD,approved
+2025-02-24,Dara Cole,Travel,Cafe Verde,14.20,EUR,approved
+2025-02-25,Ada Berg,Phone & Internet,Skyline Air,42.00,USD,approved
+2025-02-25,Ava Dubois,Software,Data Tools Ltd,8.50,USD,approved
+2025-02-26,Ravi Voss,Training,Cafe Verde,8.50,USD,rejected
+2025-02-27,Lena Iqbal,Software,Lunch Box,8.50,USD,approved
+2025-02-28,Jude Mori,Meals,Rail Connect,23.80,USD,approved
+2025-02-28,Dara Ortiz,Meals,City Taxi,8.50,USD,approved
+2025-03-01,Sam Costa,Client Entertainment,City Taxi,14.20,USD,approved
+2025-03-02,Omar Adler,Meals,Grand Hotel,240.00,USD,approved
+2025-03-03,Kai Lund,Meals,LearnPro,8.50,GBP,approved
+2025-03-03,Yuki Lund,Meals,Data Tools Ltd,42.00,USD,approved
+2025-03-04,Leo Park,Client Entertainment,Data Tools Ltd,415.00,EUR,approved
+2025-03-05,Sofia Park,Travel,Paper & Co,23.80,USD,approved
+2025-03-05,Rex Okafor,Client Entertainment,Cloud Stack Inc,129.00,USD,approved
+2025-03-06,Sam Klein,Software,Metro Transit,129.00,USD,approved
+2025-03-07,Hugo Riley,Training,Skyline Air,23.80,GBP,approved
+2025-03-08,Sofia Stone,Office Supplies,Paper & Co,23.80,USD,approved
+2025-03-08,Noah Silva,Training,City Taxi,240.00,USD,approved
+2025-03-09,Liam Park,Office Supplies,Grand Hotel,23.80,EUR,pending
+2025-03-10,Ian Costa,Meals,Rail Connect,23.80,USD,approved
+2025-03-11,Ines Lindt,Phone & Internet,Metro Transit,129.00,EUR,pending
+2025-03-11,Kai Weber,Software,Print Hub,8.50,USD,approved
+2025-03-12,Kai Lund,Meals,City Taxi,78.90,EUR,rejected
+2025-03-13,Rex Stone,Meals,Cloud Stack Inc,415.00,USD,approved
+2025-03-14,Felix Lund,Travel,City Taxi,78.90,EUR,approved
+2025-03-14,Mia Sato,Phone & Internet,Cloud Stack Inc,23.80,EUR,approved
+2025-03-15,Sam Weber,Software,Lunch Box,42.00,EUR,approved
+2025-03-16,Emil Nair,Software,Lunch Box,42.00,USD,approved
+2025-03-16,Felix Costa,Training,Grand Hotel,14.20,EUR,approved
+2025-03-17,Kai Vega,Office Supplies,Cafe Verde,23.80,USD,pending
+2025-03-18,Mia Lund,Software,Paper & Co,890.00,USD,approved
+2025-03-19,Hugo Lindt,Client Entertainment,LearnPro,129.00,USD,approved
+2025-03-19,Zoe Voss,Travel,Print Hub,240.00,USD,approved
+2025-03-20,Ruby Sato,Meals,Data Tools Ltd,42.00,EUR,approved
+2025-03-21,Eve Reyes,Travel,Data Tools Ltd,415.00,EUR,approved
+2025-03-22,Leo Costa,Meals,Lunch Box,8.50,USD,approved
+2025-03-22,Leo Costa,Meals,Data Tools Ltd,14.20,USD,approved
+2025-03-23,Hugo Reyes,Phone & Internet,LearnPro,42.00,USD,approved
+2025-03-24,Zoe Reyes,Meals,Lunch Box,129.00,USD,approved
+2025-03-24,Kira Ortiz,Meals,Paper & Co,23.80,USD,rejected
+2025-03-25,Tess Marsh,Software,Metro Transit,14.20,USD,pending
+2025-03-26,Zoe Adler,Training,City Taxi,14.20,USD,approved
+2025-03-27,Uma Moreau,Travel,City Taxi,42.00,USD,approved
+2025-03-27,Eve Bauer,Meals,Lunch Box,23.80,USD,approved
+2025-03-28,Zoe Tanaka,Phone & Internet,Paper & Co,14.20,USD,approved
+2025-03-29,Sofia Marsh,Phone & Internet,Print Hub,415.00,USD,approved
+2025-03-30,Ada Klein,Training,City Taxi,23.80,EUR,approved
+2025-03-30,Ian Mori,Travel,Data Tools Ltd,23.80,USD,approved
+2025-03-31,Ava Berg,Software,Cloud Stack Inc,23.80,USD,approved
+2025-04-01,Tess Silva,Meals,Metro Transit,240.00,USD,approved
+2025-04-01,Nina Khan,Travel,Grand Hotel,78.90,USD,approved
+2025-04-02,Ravi Silva,Meals,Data Tools Ltd,14.20,USD,approved
+2025-04-03,Ravi Lund,Meals,City Taxi,14.20,EUR,rejected
+2025-04-04,Zoe Stone,Meals,Print Hub,78.90,EUR,pending
+2025-04-04,Sam Lund,Meals,Cafe Verde,8.50,EUR,approved
+2025-04-05,Nina Stone,Meals,LearnPro,14.20,USD,approved
+2025-04-06,Hugo Tanaka,Travel,Metro Transit,240.00,USD,approved
+2025-04-07,Uma Fontes,Office Supplies,Skyline Air,14.20,USD,rejected
+2025-04-07,Jude Novak,Meals,Cloud Stack Inc,23.80,EUR,approved
+2025-04-08,Rex Haas,Meals,Rail Connect,23.80,EUR,approved
+2025-04-09,Yuki Stone,Travel,Lunch Box,78.90,GBP,approved
+2025-04-10,Kira Voss,Meals,Print Hub,240.00,USD,approved
+2025-04-10,Kira Novak,Software,Grand Hotel,8.50,EUR,approved
+2025-04-11,Kira Klein,Client Entertainment,Rail Connect,23.80,EUR,approved
+2025-04-12,Ian Stone,Travel,Cafe Verde,23.80,USD,approved
+2025-04-12,Marco Reyes,Phone & Internet,Lunch Box,14.20,USD,approved
+2025-04-13,Kai Park,Office Supplies,Paper & Co,8.50,USD,approved
+2025-04-14,Yuki Fontes,Travel,Print Hub,14.20,USD,pending
+2025-04-15,Dara Lund,Client Entertainment,Cloud Stack Inc,8.50,USD,approved
+2025-04-15,Kira Costa,Office Supplies,Data Tools Ltd,415.00,USD,approved
+2025-04-16,Omar Lund,Meals,Grand Hotel,8.50,EUR,approved
+2025-04-17,Ava Iqbal,Meals,Data Tools Ltd,240.00,GBP,approved
+2025-04-18,Ines Stone,Client Entertainment,Cloud Stack Inc,23.80,USD,approved
+2025-04-18,Paul Lindt,Software,Lunch Box,14.20,USD,approved
+2025-04-19,Nina Park,Meals,Lunch Box,23.80,USD,approved
+2025-04-20,Noah Haas,Travel,Cloud Stack Inc,23.80,GBP,rejected
+2025-04-20,Ian Sato,Meals,Paper & Co,129.00,USD,pending
+2025-04-21,Eve Reyes,Phone & Internet,Rail Connect,14.20,USD,approved
+2025-04-22,Liam Nair,Training,Skyline Air,14.20,USD,approved
+2025-04-23,Uma Lindt,Office Supplies,Skyline Air,23.80,USD,approved
+2025-04-23,Liam Lund,Phone & Internet,Grand Hotel,8.50,EUR,approved
+2025-04-24,Ines Khan,Office Supplies,City Taxi,42.00,EUR,approved
+2025-04-25,Noah Okafor,Meals,City Taxi,8.50,USD,pending
+2025-04-26,Kira Moreau,Travel,Print Hub,23.80,EUR,rejected
+2025-04-26,Nina Moreau,Travel,Grand Hotel,23.80,EUR,approved
+2025-04-27,Yuki Sato,Meals,Data Tools Ltd,8.50,EUR,approved
+2025-04-28,Dara Adler,Office Supplies,Lunch Box,8.50,EUR,approved
+2025-04-28,Ruby Riley,Training,Data Tools Ltd,42.00,EUR,approved
+2025-04-29,Noah Riley,Client Entertainment,Print Hub,23.80,EUR,approved
+2025-04-30,Ruby Cole,Travel,Print Hub,23.80,EUR,approved
+2025-05-01,Hugo Tanaka,Meals,Cloud Stack Inc,78.90,USD,pending
+2025-05-01,Yuki Riley,Office Supplies,Paper & Co,129.00,GBP,approved
+2025-05-02,Dara Vega,Meals,Lunch Box,415.00,USD,approved
+2025-05-03,Noah Khan,Travel,LearnPro,8.50,USD,approved
+2025-05-04,Emil Lund,Meals,Grand Hotel,129.00,USD,approved
+2025-05-04,Ines Voss,Travel,Metro Transit,78.90,EUR,approved
+2025-05-05,Ava Khan,Travel,Paper & Co,129.00,EUR,pending
+2025-05-06,Kai Haas,Software,City Taxi,8.50,USD,approved
+2025-05-07,Dara Novak,Travel,Data Tools Ltd,14.20,USD,approved
+2025-05-07,Nina Klein,Client Entertainment,Paper & Co,23.80,USD,pending
+2025-05-08,Eve Riley,Meals,Grand Hotel,14.20,USD,pending
+2025-05-09,Noah Khan,Office Supplies,Data Tools Ltd,129.00,EUR,approved
+2025-05-09,Mia Fontes,Meals,Data Tools Ltd,14.20,USD,approved
+2025-05-10,Rex Lindt,Training,Print Hub,42.00,USD,rejected
+2025-05-11,Paul Fontes,Travel,Lunch Box,14.20,EUR,approved
+2025-05-12,Kira Nair,Travel,Rail Connect,23.80,USD,approved
+2025-05-12,Ruby Tanaka,Software,Lunch Box,890.00,USD,approved
+2025-05-13,Noah Novak,Meals,Cafe Verde,129.00,USD,approved
+2025-05-14,Yuki Novak,Office Supplies,Data Tools Ltd,14.20,EUR,pending
+2025-05-15,Ravi Marsh,Software,Grand Hotel,240.00,USD,approved
+2025-05-15,Dara Fontes,Travel,Lunch Box,14.20,USD,approved
+2025-05-16,Tess Ortiz,Training,LearnPro,8.50,USD,approved
+2025-05-17,Kai Park,Training,Rail Connect,78.90,EUR,approved
+2025-05-17,Ruby Costa,Travel,Metro Transit,8.50,GBP,approved
+2025-05-18,Noah Marsh,Software,Cafe Verde,14.20,USD,approved
+2025-05-19,Lena Adler,Phone & Internet,Paper & Co,23.80,EUR,approved
+2025-05-20,Tess Ortiz,Meals,Paper & Co,14.20,USD,pending
+2025-05-20,Lena Tanaka,Travel,LearnPro,23.80,USD,pending
+2025-05-21,Marco Ortiz,Client Entertainment,Paper & Co,14.20,GBP,approved
+2025-05-22,Nina Reyes,Software,Grand Hotel,8.50,USD,pending
+2025-05-23,Ravi Park,Client Entertainment,Cafe Verde,14.20,EUR,approved
+2025-05-23,Sofia Weber,Travel,City Taxi,23.80,EUR,approved
+2025-05-24,Ava Sato,Travel,Skyline Air,42.00,USD,approved
+2025-05-25,Dara Marsh,Travel,Grand Hotel,14.20,EUR,approved
+2025-05-26,Ian Moreau,Meals,Print Hub,14.20,USD,approved
+2025-05-26,Noah Mori,Office Supplies,Metro Transit,78.90,USD,approved
+2025-05-27,Eve Mori,Phone & Internet,Cafe Verde,8.50,USD,approved
+2025-05-28,Eve Costa,Software,Paper & Co,890.00,USD,approved
+2025-05-28,Hugo Mori,Software,Data Tools Ltd,415.00,EUR,approved
+2025-05-29,Sofia Stone,Software,Lunch Box,240.00,USD,approved
+2025-05-30,Paul Riley,Client Entertainment,Grand Hotel,42.00,USD,approved
+2025-05-31,Liam Ortiz,Meals,Lunch Box,23.80,USD,approved
+2025-05-31,Noah Okafor,Meals,Print Hub,240.00,USD,approved
+2025-06-01,Dara Iqbal,Office Supplies,Metro Transit,23.80,EUR,approved
+2025-06-02,Nina Bauer,Travel,Data Tools Ltd,23.80,USD,pending
+2025-06-03,Marco Voss,Meals,Paper & Co,8.50,USD,approved
+2025-06-03,Ruby Haas,Meals,Rail Connect,14.20,GBP,rejected
+2025-06-04,Dara Tanaka,Travel,Data Tools Ltd,23.80,USD,approved
+2025-06-05,Sofia Sato,Travel,Cloud Stack Inc,415.00,USD,approved
+2025-06-05,Ava Dubois,Software,Lunch Box,240.00,USD,approved
+2025-06-06,Ada Khan,Office Supplies,Skyline Air,23.80,EUR,approved
+2025-06-07,Jude Tanaka,Phone & Internet,Paper & Co,890.00,EUR,approved
+2025-06-08,Kai Lindt,Office Supplies,Skyline Air,240.00,USD,pending
+2025-06-08,Noah Moreau,Software,City Taxi,8.50,USD,approved
+2025-06-09,Hugo Marsh,Client Entertainment,Cafe Verde,240.00,EUR,approved
+2025-06-10,Lena Bauer,Phone & Internet,LearnPro,8.50,USD,pending
+2025-06-11,Kai Klein,Travel,LearnPro,14.20,USD,approved
+2025-06-11,Mia Novak,Travel,LearnPro,42.00,EUR,approved
+2025-06-12,Ada Novak,Software,Skyline Air,78.90,USD,approved
+2025-06-13,Leo Costa,Software,Paper & Co,42.00,USD,rejected
+2025-06-13,Ines Vega,Training,Metro Transit,14.20,USD,approved
+2025-06-14,Liam Fontes,Meals,LearnPro,129.00,USD,pending
+2025-06-15,Noah Adler,Travel,Grand Hotel,129.00,EUR,pending
+2025-06-16,Leo Mori,Meals,Lunch Box,8.50,GBP,pending
+2025-06-16,Ian Park,Travel,City Taxi,14.20,USD,approved
+2025-06-17,Rex Voss,Meals,City Taxi,129.00,EUR,approved
+2025-06-18,Leo Stone,Client Entertainment,Rail Connect,23.80,USD,approved
+2025-06-19,Zoe Costa,Travel,Cloud Stack Inc,415.00,USD,approved
+2025-06-19,Hugo Lund,Software,City Taxi,42.00,EUR,pending
+2025-06-20,Yuki Iqbal,Office Supplies,Cloud Stack Inc,23.80,USD,approved
+2025-06-21,Kai Moreau,Training,City Taxi,129.00,USD,approved
+2025-06-22,Jude Bauer,Travel,Grand Hotel,129.00,USD,approved
+2025-06-22,Sam Adler,Training,Lunch Box,23.80,EUR,approved
+2025-06-23,Leo Lindt,Meals,Print Hub,8.50,USD,rejected
+2025-06-24,Ravi Moreau,Meals,LearnPro,23.80,GBP,approved
+2025-06-24,Eve Khan,Travel,Lunch Box,23.80,EUR,approved
+2025-06-25,Kai Reyes,Meals,Print Hub,8.50,USD,pending
+2025-06-26,Sam Dubois,Client Entertainment,Print Hub,8.50,USD,approved
+2025-06-27,Felix Ortiz,Travel,Paper & Co,14.20,GBP,approved
+2025-06-27,Ravi Vega,Travel,Cafe Verde,42.00,USD,approved
+2025-06-28,Mia Riley,Travel,Rail Connect,14.20,USD,approved
+2025-06-29,Ravi Stone,Office Supplies,City Taxi,8.50,EUR,approved
+2025-06-30,Uma Iqbal,Meals,Paper & Co,23.80,GBP,rejected
+2025-06-30,Mia Nair,Meals,Rail Connect,8.50,USD,approved
+2025-07-01,Tess Vega,Software,Grand Hotel,240.00,USD,pending
+2025-07-02,Eve Moreau,Meals,City Taxi,42.00,USD,approved
+2025-07-02,Hugo Voss,Travel,Cafe Verde,23.80,USD,approved
+2025-07-03,Jude Moreau,Software,City Taxi,129.00,EUR,approved
+2025-07-04,Marco Vega,Office Supplies,LearnPro,14.20,USD,approved
+2025-07-05,Ava Stone,Travel,LearnPro,78.90,GBP,approved
+2025-07-05,Nina Lindt,Phone & Internet,Rail Connect,23.80,EUR,approved
+2025-07-06,Ava Costa,Meals,Skyline Air,8.50,USD,approved
+2025-07-07,Ava Nair,Meals,Cloud Stack Inc,42.00,USD,approved
+2025-07-08,Liam Klein,Meals,Paper & Co,42.00,USD,rejected
+2025-07-08,Omar Nair,Phone & Internet,City Taxi,240.00,USD,approved
+2025-07-09,Jude Mori,Travel,Cafe Verde,129.00,USD,rejected
+2025-07-10,Sam Adler,Software,Skyline Air,78.90,USD,approved
+2025-07-10,Sam Voss,Phone & Internet,Metro Transit,14.20,EUR,pending
+2025-07-11,Jude Lindt,Travel,Skyline Air,42.00,EUR,approved
+2025-07-12,Hugo Khan,Software,Data Tools Ltd,14.20,EUR,approved
+2025-07-13,Yuki Novak,Client Entertainment,Cloud Stack Inc,42.00,USD,pending
+2025-07-13,Sofia Costa,Training,Paper & Co,23.80,EUR,approved
+2025-07-14,Nina Vega,Phone & Internet,Metro Transit,14.20,USD,approved
+2025-07-15,Ian Novak,Training,Metro Transit,42.00,USD,approved
+2025-07-16,Felix Adler,Software,Data Tools Ltd,129.00,EUR,approved
+2025-07-16,Sam Mori,Client Entertainment,Cafe Verde,23.80,USD,approved
+2025-07-17,Rex Novak,Software,Paper & Co,23.80,USD,approved
+2025-07-18,Mia Weber,Meals,Skyline Air,8.50,USD,pending
+2025-07-19,Zoe Adler,Phone & Internet,Grand Hotel,23.80,USD,approved
+2025-07-19,Paul Lund,Travel,Data Tools Ltd,78.90,USD,approved
+2025-07-20,Sam Silva,Meals,Grand Hotel,240.00,USD,approved
+2025-07-21,Uma Tanaka,Software,Lunch Box,78.90,EUR,approved
+2025-07-21,Leo Silva,Meals,Lunch Box,8.50,USD,pending
+2025-07-22,Hugo Okafor,Travel,Metro Transit,42.00,GBP,approved
+2025-07-23,Nina Park,Training,Grand Hotel,8.50,USD,rejected
+2025-07-24,Yuki Klein,Meals,Lunch Box,8.50,GBP,approved
+2025-07-24,Paul Nair,Office Supplies,Skyline Air,23.80,USD,pending
+2025-07-25,Ian Okafor,Client Entertainment,Metro Transit,78.90,EUR,pending
+2025-07-26,Dara Novak,Client Entertainment,Print Hub,23.80,USD,approved
+2025-07-27,Kai Bauer,Meals,Skyline Air,78.90,USD,approved
+2025-07-27,Hugo Weber,Office Supplies,Lunch Box,23.80,USD,approved
+2025-07-28,Eve Voss,Meals,Cafe Verde,14.20,USD,approved
+2025-07-29,Marco Stone,Travel,Cafe Verde,42.00,USD,approved
+2025-07-29,Leo Reyes,Meals,Rail Connect,42.00,EUR,pending
+2025-07-30,Ines Iqbal,Travel,Metro Transit,14.20,USD,approved
+2025-07-31,Uma Iqbal,Training,Paper & Co,14.20,USD,approved
+2025-08-01,Emil Cole,Client Entertainment,Data Tools Ltd,42.00,USD,approved
+2025-08-01,Ravi Khan,Meals,Skyline Air,240.00,EUR,approved
+2025-08-02,Emil Khan,Phone & Internet,Grand Hotel,42.00,GBP,approved
+2025-08-03,Eve Novak,Meals,LearnPro,23.80,USD,pending
+2025-08-04,Omar Stone,Software,LearnPro,14.20,USD,approved
+2025-08-04,Felix Vega,Travel,City Taxi,23.80,USD,approved
+2025-08-05,Paul Berg,Office Supplies,Cafe Verde,14.20,EUR,approved
+2025-08-06,Emil Berg,Meals,Data Tools Ltd,240.00,USD,approved
+2025-08-07,Ian Iqbal,Software,LearnPro,240.00,EUR,approved
+2025-08-07,Jude Weber,Training,Paper & Co,23.80,EUR,pending
+2025-08-08,Ruby Berg,Training,Cloud Stack Inc,415.00,GBP,approved
+2025-08-09,Lena Moreau,Phone & Internet,Data Tools Ltd,890.00,USD,approved
+2025-08-09,Dara Riley,Meals,LearnPro,14.20,USD,approved
+2025-08-10,Hugo Dubois,Office Supplies,LearnPro,8.50,USD,approved
+2025-08-11,Ava Mori,Office Supplies,Paper & Co,23.80,EUR,pending
+2025-08-12,Dara Lindt,Phone & Internet,Rail Connect,14.20,EUR,approved
+2025-08-12,Ravi Mori,Software,Lunch Box,240.00,USD,approved
+2025-08-13,Ruby Adler,Phone & Internet,City Taxi,42.00,USD,rejected
+2025-08-14,Tess Novak,Software,Grand Hotel,8.50,EUR,approved
+2025-08-15,Ravi Bauer,Training,Paper & Co,14.20,USD,approved
+2025-08-15,Marco Stone,Training,Print Hub,42.00,EUR,approved
+2025-08-16,Uma Moreau,Software,Cloud Stack Inc,8.50,USD,approved
+2025-08-17,Tess Haas,Phone & Internet,Cloud Stack Inc,78.90,USD,approved
+2025-08-17,Zoe Okafor,Travel,Skyline Air,14.20,GBP,approved
+2025-08-18,Hugo Costa,Training,Metro Transit,415.00,USD,approved
+2025-08-19,Zoe Cole,Phone & Internet,City Taxi,8.50,USD,approved
+2025-08-20,Emil Reyes,Client Entertainment,LearnPro,8.50,USD,approved
+2025-08-20,Yuki Dubois,Travel,Grand Hotel,8.50,USD,approved
+2025-08-21,Ines Tanaka,Software,Grand Hotel,14.20,USD,approved
+2025-08-22,Ines Mori,Meals,Lunch Box,23.80,EUR,approved
+2025-08-23,Omar Vega,Office Supplies,Grand Hotel,23.80,USD,approved
+2025-08-23,Tess Voss,Travel,Cafe Verde,129.00,USD,approved
+2025-08-24,Ravi Berg,Software,Cafe Verde,8.50,EUR,approved
+2025-08-25,Yuki Marsh,Training,City Taxi,23.80,EUR,approved
+2025-08-25,Noah Tanaka,Software,Skyline Air,78.90,USD,approved
+2025-08-26,Sofia Riley,Office Supplies,City Taxi,890.00,GBP,pending
+2025-08-27,Sam Sato,Travel,Skyline Air,42.00,USD,pending
+2025-08-28,Sofia Riley,Meals,City Taxi,42.00,USD,approved
+2025-08-28,Tess Park,Travel,Cafe Verde,14.20,USD,approved
+2025-08-29,Sam Adler,Phone & Internet,Data Tools Ltd,42.00,USD,approved
+2025-08-30,Ian Klein,Office Supplies,City Taxi,14.20,EUR,approved
+2025-08-31,Tess Voss,Travel,Cafe Verde,42.00,USD,approved
+2025-08-31,Ruby Costa,Training,Metro Transit,8.50,EUR,approved
+2025-09-01,Omar Sato,Client Entertainment,LearnPro,42.00,USD,rejected
+2025-09-02,Emil Khan,Office Supplies,Lunch Box,129.00,USD,rejected
+2025-09-03,Kai Vega,Training,Data Tools Ltd,14.20,USD,approved
+2025-09-03,Ada Weber,Travel,Print Hub,42.00,USD,approved
+2025-09-04,Hugo Silva,Software,Grand Hotel,8.50,USD,approved
+2025-09-05,Kai Ortiz,Meals,Lunch Box,14.20,USD,approved
+2025-09-05,Jude Mori,Travel,City Taxi,129.00,USD,pending
+2025-09-06,Kira Klein,Meals,Grand Hotel,23.80,USD,approved
+2025-09-07,Rex Fontes,Travel,Paper & Co,23.80,USD,pending
+2025-09-08,Liam Tanaka,Meals,Metro Transit,129.00,USD,approved
+2025-09-08,Ravi Haas,Travel,Rail Connect,415.00,USD,approved
+2025-09-09,Jude Okafor,Meals,Data Tools Ltd,240.00,USD,approved
+2025-09-10,Ada Lund,Office Supplies,City Taxi,8.50,USD,approved
+2025-09-11,Felix Marsh,Training,Paper & Co,42.00,EUR,approved
+2025-09-11,Ava Dubois,Software,Rail Connect,14.20,EUR,approved
+2025-09-12,Ian Lund,Travel,Rail Connect,78.90,USD,approved
+2025-09-13,Uma Khan,Meals,Metro Transit,8.50,EUR,approved
+2025-09-13,Liam Iqbal,Software,Skyline Air,129.00,EUR,approved
+2025-09-14,Kai Mori,Travel,Cloud Stack Inc,240.00,EUR,approved
+2025-09-15,Kai Sato,Software,City Taxi,23.80,USD,approved
+2025-09-16,Ravi Tanaka,Travel,Grand Hotel,42.00,USD,approved
+2025-09-16,Kira Stone,Training,Print Hub,42.00,USD,rejected
+2025-09-17,Mia Voss,Travel,Metro Transit,78.90,USD,pending
+2025-09-18,Zoe Park,Software,Grand Hotel,129.00,EUR,approved
+2025-09-19,Omar Adler,Phone & Internet,Cloud Stack Inc,42.00,USD,rejected
+2025-09-19,Omar Tanaka,Software,Cafe Verde,8.50,USD,approved
+2025-09-20,Leo Riley,Meals,Lunch Box,23.80,EUR,pending
+2025-09-21,Zoe Weber,Software,Paper & Co,23.80,USD,approved
+2025-09-21,Nina Ortiz,Meals,Cafe Verde,14.20,EUR,approved
+2025-09-22,Ruby Dubois,Meals,Cafe Verde,8.50,USD,pending
+2025-09-23,Ruby Silva,Travel,Rail Connect,8.50,USD,approved
+2025-09-24,Paul Lund,Meals,Paper & Co,240.00,USD,approved
+2025-09-24,Uma Ortiz,Meals,Grand Hotel,8.50,EUR,rejected
+2025-09-25,Zoe Okafor,Travel,Grand Hotel,240.00,USD,approved
+2025-09-26,Omar Nair,Travel,Rail Connect,415.00,GBP,approved
+2025-09-27,Ines Voss,Software,Skyline Air,14.20,GBP,approved
+2025-09-27,Jude Riley,Meals,Metro Transit,415.00,EUR,pending
+2025-09-28,Eve Nair,Client Entertainment,Lunch Box,8.50,GBP,pending
+2025-09-29,Nina Khan,Training,Rail Connect,42.00,EUR,pending
+2025-09-30,Lena Fontes,Training,Metro Transit,23.80,USD,approved
+2025-09-30,Ruby Klein,Software,LearnPro,129.00,USD,approved
+2025-10-01,Lena Iqbal,Software,Lunch Box,23.80,EUR,approved
+2025-10-02,Lena Cole,Travel,Paper & Co,42.00,EUR,approved
+2025-10-02,Noah Mori,Office Supplies,Cloud Stack Inc,8.50,USD,approved
+2025-10-03,Felix Okafor,Meals,Grand Hotel,8.50,GBP,approved
+2025-10-04,Ada Reyes,Travel,LearnPro,42.00,USD,pending
+2025-10-05,Kira Riley,Office Supplies,Rail Connect,8.50,EUR,approved
+2025-10-05,Kira Riley,Software,Rail Connect,42.00,EUR,approved
+2025-10-06,Kai Bauer,Office Supplies,Skyline Air,42.00,EUR,rejected
+2025-10-07,Ava Berg,Office Supplies,LearnPro,415.00,USD,approved
+2025-10-08,Ava Vega,Client Entertainment,City Taxi,42.00,USD,approved
+2025-10-08,Eve Riley,Meals,Grand Hotel,14.20,USD,approved
+2025-10-09,Ravi Stone,Travel,Lunch Box,23.80,USD,approved
+2025-10-10,Rex Okafor,Travel,Cloud Stack Inc,42.00,EUR,approved
+2025-10-10,Ian Weber,Training,Skyline Air,129.00,USD,approved
+2025-10-11,Yuki Okafor,Meals,Paper & Co,23.80,EUR,approved
+2025-10-12,Yuki Costa,Travel,Skyline Air,78.90,GBP,pending
+2025-10-13,Emil Khan,Software,Paper & Co,890.00,EUR,approved
+2025-10-13,Uma Marsh,Meals,Print Hub,23.80,EUR,approved
+2025-10-14,Felix Park,Meals,Data Tools Ltd,42.00,EUR,approved
+2025-10-15,Ada Lindt,Training,Paper & Co,14.20,USD,approved
+2025-10-16,Mia Sato,Travel,Grand Hotel,14.20,USD,rejected
+2025-10-16,Liam Silva,Travel,Print Hub,14.20,EUR,pending
+2025-10-17,Yuki Vega,Client Entertainment,Grand Hotel,8.50,USD,pending
+2025-10-18,Kira Dubois,Office Supplies,City Taxi,42.00,USD,approved
+2025-10-19,Eve Tanaka,Meals,LearnPro,1450.00,USD,rejected
+2025-10-19,Mia Lund,Software,City Taxi,240.00,USD,pending
+2025-10-20,Jude Khan,Travel,Paper & Co,8.50,GBP,approved
+2025-10-21,Nina Khan,Office Supplies,Skyline Air,42.00,USD,rejected
+2025-10-21,Hugo Reyes,Travel,Print Hub,23.80,USD,approved
+2025-10-22,Zoe Costa,Travel,Cloud Stack Inc,78.90,EUR,approved
+2025-10-23,Marco Lindt,Training,Print Hub,23.80,USD,approved
+2025-10-24,Marco Khan,Travel,Grand Hotel,240.00,USD,approved
+2025-10-24,Ines Bauer,Travel,City Taxi,129.00,USD,pending
+2025-10-25,Kira Riley,Travel,Cafe Verde,8.50,USD,approved
+2025-10-26,Dara Vega,Phone & Internet,LearnPro,14.20,USD,approved
+2025-10-27,Hugo Novak,Meals,Data Tools Ltd,42.00,USD,approved
+2025-10-27,Ada Klein,Client Entertainment,Print Hub,23.80,USD,approved
+2025-10-28,Kai Okafor,Meals,Cloud Stack Inc,23.80,USD,rejected
+2025-10-29,Uma Khan,Software,LearnPro,78.90,EUR,approved
+2025-10-29,Rex Stone,Meals,Cloud Stack Inc,23.80,USD,approved
+2025-10-30,Omar Adler,Travel,Rail Connect,23.80,USD,approved
+2025-10-31,Noah Weber,Phone & Internet,Grand Hotel,23.80,USD,approved
+2025-11-01,Dara Ortiz,Software,Rail Connect,415.00,USD,approved
+2025-11-01,Hugo Moreau,Travel,Lunch Box,23.80,EUR,approved
+2025-11-02,Kai Stone,Training,Metro Transit,14.20,USD,approved
+2025-11-03,Eve Okafor,Client Entertainment,Print Hub,240.00,USD,approved
+2025-11-04,Emil Reyes,Meals,Print Hub,8.50,USD,approved
+2025-11-04,Ava Lund,Software,City Taxi,42.00,EUR,pending
+2025-11-05,Jude Marsh,Meals,Grand Hotel,129.00,EUR,approved
+2025-11-06,Uma Costa,Meals,LearnPro,240.00,EUR,pending
+2025-11-06,Lena Moreau,Client Entertainment,Cloud Stack Inc,8.50,USD,approved
+2025-11-07,Ava Weber,Office Supplies,Grand Hotel,78.90,GBP,approved
+2025-11-08,Eve Berg,Software,Skyline Air,415.00,EUR,rejected
+2025-11-09,Ada Haas,Office Supplies,Data Tools Ltd,240.00,EUR,approved
+2025-11-09,Lena Moreau,Travel,Print Hub,240.00,USD,approved
+2025-11-10,Noah Fontes,Software,Metro Transit,890.00,USD,approved
+2025-11-11,Sofia Silva,Office Supplies,Grand Hotel,78.90,USD,pending
+2025-11-12,Ada Mori,Phone & Internet,Rail Connect,14.20,USD,pending
+2025-11-12,Marco Reyes,Travel,LearnPro,42.00,USD,approved
+2025-11-13,Felix Fontes,Phone & Internet,LearnPro,8.50,EUR,approved
+2025-11-14,Ada Costa,Meals,Cloud Stack Inc,42.00,EUR,approved
+2025-11-15,Ada Adler,Travel,Grand Hotel,78.90,EUR,approved
+2025-11-15,Omar Adler,Meals,Print Hub,78.90,EUR,approved
+2025-11-16,Sam Riley,Office Supplies,Paper & Co,129.00,EUR,approved
+2025-11-17,Kira Haas,Travel,Metro Transit,240.00,USD,approved
+2025-11-17,Kai Berg,Office Supplies,LearnPro,8.50,USD,approved
+2025-11-18,Uma Marsh,Meals,Grand Hotel,23.80,USD,rejected
+2025-11-19,Emil Tanaka,Training,City Taxi,240.00,EUR,approved
+2025-11-20,Sofia Costa,Software,Data Tools Ltd,890.00,GBP,approved
+2025-11-20,Lena Nair,Software,Print Hub,14.20,EUR,approved
+2025-11-21,Lena Okafor,Phone & Internet,Cafe Verde,1450.00,USD,approved
+2025-11-22,Tess Bauer,Meals,Skyline Air,78.90,USD,approved
+2025-11-23,Nina Dubois,Travel,City Taxi,240.00,USD,pending
+2025-11-23,Nina Lund,Office Supplies,Paper & Co,42.00,GBP,approved
+2025-11-24,Sofia Fontes,Client Entertainment,Grand Hotel,23.80,USD,approved
+2025-11-25,Liam Cole,Training,LearnPro,240.00,GBP,rejected
+2025-11-25,Nina Tanaka,Training,Lunch Box,23.80,USD,approved
+2025-11-26,Yuki Fontes,Office Supplies,Data Tools Ltd,129.00,USD,pending
+2025-11-27,Sofia Klein,Software,Skyline Air,8.50,USD,approved
+2025-11-28,Ruby Vega,Travel,Skyline Air,42.00,EUR,approved
+2025-11-28,Sofia Weber,Meals,Print Hub,42.00,USD,approved
+2025-11-29,Ruby Lindt,Travel,Cafe Verde,8.50,USD,approved
+2025-11-30,Lena Khan,Training,Lunch Box,14.20,EUR,pending
+2025-12-01,Ian Adler,Office Supplies,Paper & Co,1450.00,USD,approved
+2025-12-01,Eve Marsh,Travel,Cafe Verde,23.80,USD,approved
+2025-12-02,Yuki Dubois,Meals,Cafe Verde,42.00,USD,approved
+2025-12-03,Emil Lindt,Software,Grand Hotel,240.00,EUR,approved
+2025-12-03,Leo Sato,Meals,Skyline Air,14.20,USD,approved
+2025-12-04,Nina Sato,Travel,Cloud Stack Inc,129.00,USD,approved
+2025-12-05,Kai Lindt,Meals,Grand Hotel,240.00,EUR,approved
+2025-12-06,Sam Fontes,Meals,LearnPro,415.00,EUR,rejected
+2025-12-06,Paul Mori,Travel,Rail Connect,240.00,USD,approved
+2025-12-07,Kira Nair,Software,Paper & Co,8.50,USD,pending
+2025-12-08,Kira Costa,Meals,Cafe Verde,8.50,EUR,approved
+2025-12-09,Uma Iqbal,Meals,City Taxi,23.80,EUR,approved
+2025-12-09,Uma Khan,Meals,Cafe Verde,8.50,EUR,approved
+2025-12-10,Leo Berg,Software,Cloud Stack Inc,23.80,USD,approved
+2025-12-11,Lena Lund,Software,Cloud Stack Inc,129.00,EUR,approved
+2025-12-12,Ada Reyes,Office Supplies,Data Tools Ltd,14.20,EUR,approved
+2025-12-12,Rex Costa,Software,LearnPro,78.90,EUR,approved
+2025-12-13,Emil Berg,Office Supplies,LearnPro,23.80,USD,approved
+2025-12-14,Sofia Berg,Training,Data Tools Ltd,129.00,USD,rejected
+2025-12-14,Noah Lund,Training,Print Hub,42.00,USD,approved
+2025-12-15,Eve Berg,Training,Grand Hotel,78.90,USD,approved
+2025-12-16,Ian Sato,Meals,LearnPro,23.80,USD,approved
+2025-12-17,Emil Khan,Client Entertainment,Data Tools Ltd,42.00,USD,approved
+2025-12-17,Zoe Weber,Travel,Data Tools Ltd,129.00,EUR,approved
+2025-12-18,Dara Lindt,Meals,Rail Connect,14.20,EUR,approved
+2025-12-19,Sofia Weber,Client Entertainment,Metro Transit,14.20,USD,approved
+2025-12-20,Rex Dubois,Travel,Paper & Co,14.20,EUR,approved
+2025-12-20,Omar Iqbal,Meals,City Taxi,14.20,USD,pending
+2025-12-21,Tess Tanaka,Travel,Rail Connect,240.00,USD,approved
+2025-12-22,Lena Park,Meals,Cloud Stack Inc,240.00,USD,rejected
+2025-12-22,Liam Cole,Office Supplies,Print Hub,42.00,USD,approved
+2025-12-23,Hugo Park,Meals,Cafe Verde,415.00,EUR,approved
+2025-12-24,Ian Nair,Travel,Skyline Air,8.50,EUR,approved
+2025-12-25,Zoe Silva,Software,Data Tools Ltd,23.80,USD,approved
+2025-12-25,Zoe Weber,Office Supplies,Paper & Co,415.00,USD,approved
+2025-12-26,Ravi Haas,Travel,Lunch Box,78.90,EUR,approved
+2025-12-27,Omar Dubois,Software,Cafe Verde,415.00,USD,approved
+2025-12-28,Lena Weber,Client Entertainment,Grand Hotel,42.00,USD,approved
+2025-12-28,Ines Bauer,Software,City Taxi,415.00,GBP,approved
+2025-12-29,Lena Voss,Office Supplies,City Taxi,78.90,EUR,approved
+2025-12-30,Lena Mori,Office Supplies,Metro Transit,78.90,EUR,approved
