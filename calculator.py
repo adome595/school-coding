@@ -3,7 +3,7 @@ import tkinter as tk
 root = tk.Tk()
 root.title("Python Calculator")
 root.geometry("350x500")
-display = tk.Entry(root, width=20, font=("Arial", 18), justify="right", state="disabled")
+display = tk.Entry(root, width=20, font=("Arial", 18), justify="right", state="readonly")
 display.grid(row=0, column=0, columnspan=4, padx=5, pady=5, sticky="nsew")
 
 
@@ -18,18 +18,18 @@ buttons = [
 def press(value):
     display.config(state="normal")
     display.insert(tk.END, value)
-    display.config(state="disabled")
+    display.config(state="readonly")
 def press_c():
     display.config(state="normal")
     display.delete(0, tk.END)
-    display.config(state="disabled")
+    display.config(state="readonly")
 def calculate():
     display.config(state="normal")
     expression = display.get()
     result = eval(expression)
     display.delete(0, tk.END)
     display.insert(tk.END, str(result))
-    display.config(state="disabled")
+    display.config(state="readonly")
 
 row = 1
 col = 0
@@ -51,7 +51,5 @@ for i in range(4):
     root.grid_columnconfigure(i, weight=1)
 for i in range(row + 1):
     root.grid_rowconfigure(i, weight=1)
-if label == "=":
-    calculate()
 
 root.mainloop()
