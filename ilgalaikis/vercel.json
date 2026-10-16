@@ -1,13 +1,14 @@
 {
-"rewrites": [
+  "outputDirectory": "public",
+  "rewrites": [
     {
-        "source": "/city-info",
-        "destination": "/api/city-info"
+      "source": "/city-info",
+      "destination": "/api/city-info"
     }
-],
-"functions": {
+  ],
+  "functions": {
     "api/**/*.js": {
-        "maxDuration": 30
+      "maxDuration": 30
     }
-}
+  }
 }
