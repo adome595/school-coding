@@ -1,0 +1,13 @@
+{
+"rewrites": [
+    {
+        "source": "/city-info",
+        "destination": "/api/city-info"
+    }
+],
+"functions": {
+    "api/**/*.js": {
+        "maxDuration": 30
+    }
+}
+}

@@ -22,6 +22,7 @@ try {
 }
 
 const KEY = process.env.IGNAV_API_KEY;
+const TF_KEY = process.env.TINYFISH_API_KEY;
 const PORT = process.env.PORT || 3000;
 const PUBLIC_DIR = path.join(__dirname, "public");
 const TYPES = {
@@ -38,6 +39,30 @@ if (!KEY) {
 http
   .createServer(async (req, res) => {
     try {
+      if (req.url.startsWith("/city-info")) {
+  const city = new URL(req.url, "http://localhost").searchParams.get("city")?.trim();
+  if (!TF_KEY || !city) {
+    res.writeHead(400, { "Content-Type": "application/json" });
+    res.end(JSON.stringify({ error: !TF_KEY ? "TINYFISH_API_KEY not set" : "Missing city" }));
+    return;
+  }
+  const upstream = await fetch(
+    "https://api.search.tinyfish.ai?" +
+      new URLSearchParams({ query: `Things to do in ${city}` }),
+    { headers: { "X-API-Key": TF_KEY } }
+  );
+  const data = await upstream.json().catch(() => ({}));
+  console.log(JSON.stringify(data).slice(0, 1000));
+  console.log("GET /city-info ->", upstream.status);
+  const results = (data.results || []).slice(0, 5).map((r) => ({
+    title: r.title,
+    url: r.url,
+    snippet: r.snippet || "",
+  }));
+  res.writeHead(upstream.ok ? 200 : 502, { "Content-Type": "application/json" });
+  res.end(JSON.stringify({ results }));
+  return;
+}
       if (req.url.startsWith("/api/")) {
         const chunks = [];
         for await (const c of req) chunks.push(c);
@@ -46,8 +71,11 @@ http
           headers: { "X-Api-Key": KEY, "Content-Type": "application/json" },
           body: ["GET", "HEAD"].includes(req.method) ? undefined : Buffer.concat(chunks),
         });
+        const body = await upstream.text();
+        console.log(req.method, req.url.split("?")[0], "->", upstream.status);
+        if (!upstream.ok) console.log(body.slice(0, 500));
         res.writeHead(upstream.status, { "Content-Type": "application/json" });
-        res.end(await upstream.text());
+        res.end(body);
         return;
       }
 

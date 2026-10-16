@@ -1,0 +1,135 @@
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+div.topbox {
+    background-color: cadetblue;
+    padding: 20px;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+.input {
+    margin-top: 100px;
+}
+
+.input input,
+.input button {
+    display: block;
+    width: 250px;
+    height: 35px;
+    margin: 15px auto 0;
+    border: 5px solid black;
+    border-radius: 20px;
+    text-align: center;
+    font-size: large;
+    box-sizing: content-box;
+}
+
+.input button {
+    background: white;
+    cursor: pointer;
+}
+
+.input button:hover {
+    background: aquamarine;
+}
+
+#results,
+#cityinfo {
+    max-width: 700px;
+    margin: 24px auto;
+    padding: 0 12px;
+}
+
+#results .route {
+    margin: 0 0 4px;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+
+#results .note {
+    margin: 0 0 12px;
+    text-align: center;
+    color: #555;
+}
+
+.offer {
+    display: grid;
+    grid-template-columns: 110px 1fr auto;
+    gap: 16px;
+    align-items: center;
+    padding: 10px 14px;
+    margin: 8px 0;
+    border: 2px solid black;
+    border-radius: 12px;
+    background: white;
+}
+
+.offer .price {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.offer .flag {
+    display: block;
+    font-size: small;
+    font-weight: normal;
+    color: #555;
+}
+
+.offer .times {
+    font-weight: bold;
+}
+
+.offer .meta {
+    display: block;
+    font-size: small;
+    font-weight: normal;
+    color: #555;
+}
+
+.offer .carrier {
+    text-align: right;
+    color: #555;
+}
+
+#cityinfo h2 {
+    text-align: center;
+}
+
+#cityinfo .item {
+    padding: 10px 14px;
+    margin: 8px 0;
+    border: 2px solid black;
+    border-radius: 12px;
+    background: aquamarine;
+}
+
+#cityinfo a {
+    color: black;
+    font-weight: bold;
+}
+
+#cityinfo .site {
+    display: block;
+    font-size: small;
+    color: #333;
+}
+
+#cityinfo p {
+    margin: 4px 0 0;
+}
+
+@media (max-width: 560px) {
+    .offer {
+        grid-template-columns: 1fr auto;
+    }
+
+    .offer .times {
+        grid-column: 1 / -1;
+        grid-row: 2;
+    }
+}
